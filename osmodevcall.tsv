@@ -1,0 +1,16 @@
+ID	Date		Speakers	Slug							Title
+2	2021-03-12	@laforge	osmodevcall-20210312-laforge-overview-of-2020		Osmocom 2020 review
+3	2021-03-26	@fixeria	osmodevcall-20210326-fixeria-osmoran-status-update	OsmoRAN status update: mult-TRX + frequency hopping
+4	2021-04-09	@laforge	osmodevcall-20210409-laforge-pysim-shell		pySim-shell - next generation SIM configuration tool
+5	2021-04-23	@horiz0n	osmodevcall-20210423-horizon-yig-yang			YIG & YANG (Yet ANother yiG driver)
+6	2021-05-14	@laforge	osmodevcall-20210514-laforge-ss7-sigtran		SS7 and SIGTRAN in 2G/3G networks
+7	2021-05-28	@fixeria	osmodevcall-20210528-fixeria-pycrate			Hacking binary protocols with Pycrate
+8	2021-06-11	@keith		osmodevcall-20210611-whytek-peek-at-tic-infra		A screen sharing peek at TIC A.C. infra in Oaxaca
+9	2021-07-09	@miaoski	osmodevcall-20210709-miaoski-open5gs			Open5GS setup walkthrough
+10	2021-07-23	@laforge	osmodevcall-20210723-laforge-ims-volte-vowifi		High-Level into to IMS, VoLTE & VoWiFi
+11	2021-08-13	@laforge	osmodevcall-20210813-laforge-gsm-r			GSM-R and how it differs from GSM
+12	2021-08-27	@laforge	osmodevcall-20210827-laforge-osmo-remsim		osmo-remsim in practice
+13	2021-09-24	@tnt		osmodevcall-20210924-tnt-iso7816			Open Hardware ISO7816 FPGA core
+1	2021-10-22	@laforge	osmodevcall-20211022-laforge-sim			SIM card profile creation, personalization, production
+16	2021-11-12	@laforge	osmodevcall-20211112-laforge-tdm			E1, TDM, PDH, SDH, Basics
+17	2021-11-12	@tnt		osmodevcall-20211112-tnt-ice1usb			iceE1usb in practice
