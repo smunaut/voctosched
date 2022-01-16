@@ -22,6 +22,8 @@ SPEAKERS = {
     '@keith':    (4, 'Keith Whyte'),
     '@miaoski':  (5, 'miaoski'),
     '@tnt':      (6, 'Sylvain "tnt" Munaut'),
+    '@osmith':   (7, 'Oliver Smith'),
+    '@neels':    (8, 'Neels Hofmeyr'),
 }
 
 

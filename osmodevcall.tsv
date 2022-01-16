@@ -14,3 +14,7 @@ ID	Date		Speakers	Slug							Title
 1	2021-10-22	@laforge	osmodevcall-20211022-laforge-sim			SIM card profile creation, personalization, production
 16	2021-11-12	@laforge	osmodevcall-20211112-laforge-tdm			E1, TDM, PDH, SDH, Basics
 17	2021-11-12	@tnt		osmodevcall-20211112-tnt-ice1usb			iceE1usb in practice
+18	2021-11-25	@laforge	osmodevcall-20211125-laforge-cups-pfcp			Control/User Plane Separation (CUPS) and PFCP
+19	2021-12-10	@osmith		osmodevcall-20211210-osmith-osmo-dev-ttcn3		osmo-dev and running Osmocom TTCN-3 testsuites locally
+20	2021-12-28	@laforge	osmodevcall-20211228-laforge-retro-isdn-v5		Retronetworking: V5 interfaces in ISDN/PSTN
+21	2022-01-14	@neels		osmodevcall-20220114-neels-voice-codec			Codecs in OsmoMSC, MNCC, SIP
