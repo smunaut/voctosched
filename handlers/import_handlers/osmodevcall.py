@@ -16,14 +16,15 @@ log = logging.getLogger(__name__)
 
 
 SPEAKERS = {
-    '@laforge':  (1, 'Harald "LaF0rge" Welte'),
-    '@fixeria':  (2, 'Vadim "fixeria" Yanitskiy'),
-    '@horiz0n':  (3, 'Dimitri "horiz0n" Stolnikov'),
-    '@keith':    (4, 'Keith Whyte'),
-    '@miaoski':  (5, 'miaoski'),
-    '@tnt':      (6, 'Sylvain "tnt" Munaut'),
-    '@osmith':   (7, 'Oliver Smith'),
-    '@neels':    (8, 'Neels Hofmeyr'),
+    '@laforge':         (1, 'Harald "LaF0rge" Welte'),
+    '@fixeria':         (2, 'Vadim "fixeria" Yanitskiy'),
+    '@horiz0n':         (3, 'Dimitri "horiz0n" Stolnikov'),
+    '@keith':           (4, 'Keith Whyte'),
+    '@miaoski':         (5, 'miaoski'),
+    '@tnt':             (6, 'Sylvain "tnt" Munaut'),
+    '@osmith':          (7, 'Oliver Smith'),
+    '@neels':           (8, 'Neels Hofmeyr'),
+    '@tsaitgaist':      (9, 'Kevin "tsaitgaist" Redon'),
 }
 
 
@@ -76,7 +77,7 @@ class OsmoDevCallImportHandler(ImportHandler):
                     title             = row['Title'],
                     language          = "en",
                     persons           = speakers,
-                    download_url      = f"https://people.osmocom.org/~tnt/osmodevcall/{row['Slug']:s}_master.mov",
+                    download_url      = f"https://people.osmocom.org/tnt/osmodevcall/{row['Slug']:s}_master.mov",
                     recording_license = "CC-BY-SA"
                 ))
 
