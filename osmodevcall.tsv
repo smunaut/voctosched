@@ -20,4 +20,5 @@ ID	Date		Speakers	Slug							Title
 21	2022-01-14	@neels		osmodevcall-20220114-neels-voice-codec			Codecs in OsmoMSC, MNCC, SIP
 22	2022-02-25	@laforge	osmodevcall-20220225-laforge-advanced-sim-topics	Advanced SIM card topics: GlobalPlatform SCP02, OTA, ARA-M, ISIM
 23	2022-03-11	@tsaitgaist	osmodevcall-20220311-tsaitgaist-usb-c-connector-and-usb-pd	Developing with USB-C and PD
+25	2022-04-29	@laforge	osmodevcall-20220429-laforge-octoi			Osmocom Community TDMoIP (OCTOI)
 
