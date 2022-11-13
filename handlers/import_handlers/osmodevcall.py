@@ -77,7 +77,7 @@ class OsmoDevCallImportHandler(ImportHandler):
                     title             = row['Title'],
                     language          = "en",
                     persons           = speakers,
-                    download_url      = f"https://people.osmocom.org/tnt/osmodevcall/{row['Slug']:s}_master.mov",
+                    download_url      = f"https://downloads.osmocom.org/videos/osmodevcall/{row['Slug']:s}_master.mov",
                     recording_license = "CC-BY-SA"
                 ))
 
