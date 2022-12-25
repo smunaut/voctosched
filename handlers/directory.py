@@ -1,7 +1,7 @@
 from typing import Type
 
 from .base import ImportHandler, ExportHandler
-from .import_handlers import FakeImportHandler, CSVImportHandler, JSONImportHandler, ProyektorImportHandler, OsmoDevCallImportHandler
+from .import_handlers import FakeImportHandler, CSVImportHandler, JSONImportHandler, ProyektorImportHandler, OsmoDevCallImportHandler, RetroNetCallImportHandler
 from .export_handlers import BasicXMLExportHandler, ExtendedXMLExportHandler, FrabJsonExportHandler
 
 import_handlers = {
@@ -10,6 +10,7 @@ import_handlers = {
     "json": JSONImportHandler,
     "proyektor": ProyektorImportHandler,
     "osmodevcall": OsmoDevCallImportHandler,
+    "retronetcall": RetroNetCallImportHandler,
 }
 
 export_handlers = {
