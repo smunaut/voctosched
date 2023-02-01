@@ -24,3 +24,4 @@ ID	Date		Speakers	Slug							Title
 26	2022-10-19	@laforge	osmodevcall-20221019-laforge-simtrace2-tutorial		Osmocom SIMtrace2 Tutorial - SIM protocol tracing: how & why
 27	2022-11-16	@fixeria	osmodevcall-20221116-fixeria-gsm-power-control		MS/BS Power Control in OsmoBSC and OsmoBTS
 28	2022-12-21	@tsaitgaist	osmodevcall-20221221-tsaitgaist-usb-hub-for-device-testing	USB Hub for Device Testing
+29	2023-01-18	@tnt		osmodevcall-20230118-tnt-ice40-usbtrace			iCE40-usbtrace: Full-Speed USB tracer
