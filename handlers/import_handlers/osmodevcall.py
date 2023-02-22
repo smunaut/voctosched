@@ -25,6 +25,7 @@ SPEAKERS = {
     '@osmith':          (7, 'Oliver Smith'),
     '@neels':           (8, 'Neels Hofmeyr'),
     '@tsaitgaist':      (9, 'Kevin "tsaitgaist" Redon'),
+    '@rafael2k':       (10, 'Rafael Diniz'),
 }
 
 
