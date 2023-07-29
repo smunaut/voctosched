@@ -26,6 +26,7 @@ SPEAKERS = {
     '@neels':           (8, 'Neels Hofmeyr'),
     '@tsaitgaist':      (9, 'Kevin "tsaitgaist" Redon'),
     '@rafael2k':       (10, 'Rafael Diniz'),
+    '@falconia':       (11, 'Mychaela Falconia'),
 }
 
 

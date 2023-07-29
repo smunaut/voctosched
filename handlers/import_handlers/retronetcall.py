@@ -18,6 +18,7 @@ log = logging.getLogger(__name__)
 SPEAKERS = {
     '@laforge':         (1, 'Harald "LaF0rge" Welte'),
     '@tnt':             (2, 'Sylvain "tnt" Munaut'),
+    '@casandro':        (3, 'Christian "casandro" Berger'),
 }
 
 

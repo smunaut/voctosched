@@ -27,3 +27,5 @@ ID	Date		Speakers	Slug							Title
 29	2023-01-18	@tnt		osmodevcall-20230118-tnt-ice40-usbtrace			iCE40-usbtrace: Full-Speed USB tracer
 30	2023-02-15	@rafael2k	osmodevcall-20230215-rafael2k-long-range-hf-comm	Long-range Telecommunications in HF band
 31	2023-03-15	@laforge	osmodevcall-20230315-laforge-csd			Circuit Switched Data (CSD) in GSM
+32	2023-06-21	@falconia	osmodevcall-20230621-falconia-voice-codec		FR/HR/EFR voice codecs in Osmocom RAN
+33	2023-07-19	@laforge	osmodevcall-20230719-laforge-wired-rf			Building wired RF test setups for cellular networks
