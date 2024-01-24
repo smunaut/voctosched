@@ -29,3 +29,7 @@ ID	Date		Speakers	Slug							Title
 31	2023-03-15	@laforge	osmodevcall-20230315-laforge-csd			Circuit Switched Data (CSD) in GSM
 32	2023-06-21	@falconia	osmodevcall-20230621-falconia-voice-codec		FR/HR/EFR voice codecs in Osmocom RAN
 33	2023-07-19	@laforge	osmodevcall-20230719-laforge-wired-rf			Building wired RF test setups for cellular networks
+34	2023-09-20	@falconia	osmodevcall-20230920-falconia-themyscira-wireless	Themyscira Wireless: Osmocom CNI meets USA PSTN
+35	2023-11-15	@falconia	osmodevcall-20231115-falconia-calypso-history		Calypso chipset history and development boards
+36	2023-12-20	@laforge	osmodevcall-20231220-laforge-pysim-shell-sysmoisim-sja5	Using pySim-shell on sysmoISIM-SJA5 cards
+37	2024-01-17	@laforge	osmodevcall-20240117-laforce-euicc-esim			Exploring eUICCs and eSIMS using pySim, lpac and osmo-smdpp
