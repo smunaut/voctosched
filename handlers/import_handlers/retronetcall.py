@@ -19,6 +19,7 @@ SPEAKERS = {
     '@laforge':         (1, 'Harald "LaF0rge" Welte'),
     '@tnt':             (2, 'Sylvain "tnt" Munaut'),
     '@casandro':        (3, 'Christian "casandro" Berger'),
+    '@falconia':        (4, 'Mychaela Falconia'),
 }
 
 
