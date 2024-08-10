@@ -60,6 +60,11 @@ class RetroNetCallImportHandler(ImportHandler):
                 uid, name = SPEAKERS[s]
                 speakers[uid] = name
 
+            if int(row['ID']) >= 9:
+                ext = 'mkv'
+            else:
+                ext = 'mov'
+
             schedule.add_event(
                 1, "Virtual",
                 Event(
@@ -71,7 +76,7 @@ class RetroNetCallImportHandler(ImportHandler):
                     title             = row['Title'],
                     language          = "en",
                     persons           = speakers,
-                    download_url      = f"https://downloads.osmocom.org/videos/retronetcall/{row['Slug']:s}_master.mov",
+                    download_url      = f"https://downloads.osmocom.org/videos/retronetcall/{row['Slug']:s}_master.{ext:s}",
                     recording_license = "CC-BY-SA"
                 ))
 
