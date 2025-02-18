@@ -34,3 +34,6 @@ ID	Date		Speakers	Slug							Title
 36	2023-12-20	@laforge	osmodevcall-20231220-laforge-pysim-shell-sysmoisim-sja5	Using pySim-shell on sysmoISIM-SJA5 cards
 37	2024-01-17	@laforge	osmodevcall-20240117-laforce-euicc-esim			Exploring eUICCs and eSIMS using pySim, lpac and osmo-smdpp
 38	2024-07-17	@falconia	osmodevcall-20240717-falconia-gsm-g711-transcoding	GSM networks that require transcoding to G.711: the problem and possible solutions
+39	2024-08-21	@falconia	osmodevcall-20240821-falconia-tch-rx-error-flags	TCH Rx error flags: FR, EFR, HR and BCI mystery
+40	2024-10-16	@laforge	osmodevcall-20241016-laforge-gsma-iot-esim		GSMA IoT eSIM (as opposed to consumer or M2M)
+41	2025-01-14	@falconia	osmodevcall-20250114-falconia-tfo-gsm-3g		Tandem-Free Operation (TFO) in GSM and 3G
